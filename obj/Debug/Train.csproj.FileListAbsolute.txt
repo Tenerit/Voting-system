@@ -1,0 +1,6 @@
+C:\Users\Administrateur\source\repos\Voting\Train\bin\Debug\Train.exe.config
+C:\Users\Administrateur\source\repos\Voting\Train\bin\Debug\Train.exe
+C:\Users\Administrateur\source\repos\Voting\Train\bin\Debug\Train.pdb
+C:\Users\Administrateur\source\repos\Voting\Train\obj\Debug\Train.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Voting\Train\obj\Debug\Train.exe
+C:\Users\Administrateur\source\repos\Voting\Train\obj\Debug\Train.pdb
